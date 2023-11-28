@@ -27,8 +27,8 @@ SECRET_KEY = 'django-insecure-$#6($hldk=#ot$@o=c&#7ya$(3xrdgbg^a78p0*jiufpisngqe
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    '*', 'EECE439.azurewebsites.net']
-CSRF_TRUSTED_ORIGINS = ['https://EECE439.azurewebsites.net']
+    '*', 'EECE439wma.azurewebsites.net']
+CSRF_TRUSTED_ORIGINS = ['https://EECE439wma.azurewebsites.net']
 
 
 # Application definition
